@@ -379,6 +379,7 @@ function interact() {
 
 특히 대화 시스템과 기억 조각 수집 시스템 모두 거리 계산을 기반으로 동작한다.
 
+<img width="1342" height="1476" alt="image" src="https://github.com/user-attachments/assets/c0cc12e2-621e-47da-870d-39ebca6fbd33" />
 
 ```javascript
 
