@@ -4,7 +4,13 @@
 
 ## 실행 링크
 
-게임 실행 링크: 나중에 Vercel 링크 넣기
+## 실행 링크
+
+https://2024603039.github.io/dream-walker/
+
+## 리포트
+
+REPORT.md
 
 ## 리포트
 
