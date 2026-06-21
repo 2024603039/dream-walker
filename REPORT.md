@@ -258,7 +258,10 @@ scene.add(redLight);
 
 일반적인 색상만 사용하는 것보다 빛이 나는 것처럼 보이기 때문에 플레이어가 문이라는 것을 잘 인식할 수 있었다.
 
-![Scene Graph 적용 장면](./wake-room.png)
+아래 사진은 문이 일반적인 색이라 잘 보이지 않는 경우이다.
+
+<img width="1392" height="1470" alt="image" src="https://github.com/user-attachments/assets/eea277eb-450a-4907-8fda-9f94e327a239" />
+
 ---
 
 ### 3-7. Animation
