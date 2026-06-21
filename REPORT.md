@@ -515,6 +515,8 @@ momNPC.rotation.z =
 
 게임에서 걷는 캐릭터를 보고 이상하게 걷는다고 생각했었는데 자연스럽게 걷는다는게 얼마나 힘든 일인지 실감하게 됐다.
 
+<img width="1384" height="1442" alt="image" src="https://github.com/user-attachments/assets/422a4b09-a0d4-4f68-a9ea-aac727eceb1b" />
+
 ---
 
 ### 4-2. 꿈에서 깬 뒤에도 붉은 방이 유지되는 문제
