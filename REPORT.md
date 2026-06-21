@@ -252,8 +252,7 @@ scene.add(redLight);
 
 일반적인 색상만 사용하는 것보다 빛이 나는 것처럼 보이기 때문에 플레이어가 문이라는 것을 잘 인식할 수 있었다.
 
-![Emissive 적용 장면](./red-room.png)
-
+![Scene Graph 적용 장면](./wake-room.png)
 ---
 
 ### 3-7. Animation
