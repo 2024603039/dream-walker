@@ -367,7 +367,6 @@ function interact() {
 
 특히 대화 시스템과 기억 조각 수집 시스템 모두 거리 계산을 기반으로 동작한다.
 
-![거리 계산이 사용된 장면](./memory-fragment.png)
 
 ```javascript
 
